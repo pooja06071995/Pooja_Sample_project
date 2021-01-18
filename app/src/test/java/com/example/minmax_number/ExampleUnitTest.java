@@ -1,4 +1,4 @@
-package com.example.firstdemoapplication;
+package com.example.minmax_number;
 
 import org.junit.Test;
 

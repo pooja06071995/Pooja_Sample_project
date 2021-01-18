@@ -1,4 +1,4 @@
-package com.example.firstdemoapplication;
+package com.example.minmax_number;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.example.firstdemoapplication", appContext.getPackageName());
+        assertEquals("com.example.minmax_number", appContext.getPackageName());
     }
 }
